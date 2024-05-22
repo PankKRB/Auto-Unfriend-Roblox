@@ -1,4 +1,4 @@
-# AutoUnfriends-Roblox
+# Auto-Unfriend-Roblox
 
 AUTO UNFRIEND ALL ROBLOX
 Step 1 : Install Extention
